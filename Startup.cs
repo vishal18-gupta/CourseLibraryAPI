@@ -14,7 +14,7 @@ namespace CourseLibrary.API
     {
         public Startup(IConfiguration configuration)
         {
-            //My Local comments
+            //My Local comments - same line - From PC
             Configuration = configuration;
             //Git hub comments
         }
